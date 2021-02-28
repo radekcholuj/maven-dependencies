@@ -1,4 +1,4 @@
-package pl.radekcholuj;
+package pl.radekcholuj.Gson;
 
 import com.google.gson.Gson;
 
