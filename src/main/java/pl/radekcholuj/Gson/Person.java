@@ -1,4 +1,4 @@
-package pl.radekcholuj;
+package pl.radekcholuj.Gson;
 
 public class Person {
     private String name;
